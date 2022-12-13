@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mobiletest</string>
+    <string name="button1">ADD DIET</string>
+    <string name="title">나의 식사</string>
+    <string name="title2">식단 입력</string>
+    <string name="title3">최근 1주간 섭취 열량</string>
+    <string name="adddiet">식단 추가</string>
+    <string name="showlist">SHOW DIET</string>
+    <string name="analyze">식사 분석</string>
+    <string name="btn_home">홈으로</string>
+    <string name="btn_analyze">열량 보기</string>
+    <string name="description">전날을 기준으로 최근 1주일 동안\n섭취한 총 열량을 보여준다.</string>
+</resources>
